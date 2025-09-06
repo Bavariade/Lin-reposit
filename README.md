@@ -5,7 +5,7 @@ Useful for developers, traders, or anyone who wants quick access to crypto price
 
 ## Features
 - Get live prices for popular cryptocurrencies
-- Supports multiple coin
+- Supports multiple coins
 - Lightweight and easy to run
 - Extendable for your own needs
 
