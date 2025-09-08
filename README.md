@@ -33,7 +33,7 @@ python tracker.py
 
 Example output:
 ```
-BT: $63,241.55
+BTc: $63,241.55
 ETH: $3,127.20
 SOL: $148.90
 ```
