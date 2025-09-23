@@ -9,7 +9,7 @@ Useful for developers, traders, or anyone who wants quick access to crypto price
 - Lightweight and easy to run
 - Extendable for your own needs
 
-## Installatio
+## Installation
 ```bash
 # Clone the repository
 git clone https://github.com/username/crypto-price-tracker.git
