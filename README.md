@@ -1,6 +1,6 @@
 # Crypto Price Tracker
 
-  ython tool that fetches real-time cryptocurrency prices (e.g., Bitcoin, Ethereum, Solana) from a public API and displays them in the terminal 
+  python tool that fetches real-time cryptocurrency prices (e.g., Bitcoin, Ethereum, Solana) from a public API and displays them in the terminal 
 Useful for developers, traders, or anyone who wants quick access to crypto price data.
 
 ## Features
